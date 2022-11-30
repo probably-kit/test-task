@@ -1,0 +1,7 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/probably-kit/test-task.git",
+  "license": "MIT"
+}
